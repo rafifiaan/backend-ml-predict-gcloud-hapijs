@@ -13,3 +13,7 @@ Note: </br>
 ./deploy.sh
 ```
 - PORT=8080 in server.js (no need to expose the port in the Dockerfile)
+
+<br>
+
+***Thanks for visiting this repository, stay tuned for more projects!***
