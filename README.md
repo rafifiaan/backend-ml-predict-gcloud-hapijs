@@ -8,10 +8,6 @@ UI Website:
 
 
 Note: </br> 
-- Use **deploy.sh** to deploy with Cloud Run via CLI (same directory with Dockerfile)
-```
-./deploy.sh
-```
 - PORT=8080 in server.js (no need to expose the port in the Dockerfile)
 
 <br>
